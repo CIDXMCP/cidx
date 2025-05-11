@@ -12,6 +12,8 @@ With context-aware search, your agent becomes sharper, more efficient, and gener
 
 Reporting Bugs: For non-security related bugs or issues, please use our [GitHub Issues page](https://github.com/CIDXMCP/cidx/issues). When reporting a bug, include a clear description, steps to reproduce, and any relevant details about your environment.
 
+Security Vulnerabilities: To report security vulnerabilities, please use our [private security reporting form](hhttps://github.com/CIDXMCP/cidx/security) or email security@cidx.dev. Do not report security issues in public GitHub issues.
+
 ## Getting Started
 
 Head over to [our website](https://www.cidx.dev/) to sign up, install the cli/mcp server, and follow the instructions [here](http://localhost:3001/resources)
